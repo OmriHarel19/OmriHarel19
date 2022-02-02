@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**OmriHarel19/OmriHarel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me: 
+- 19 years old, interested in hacking, binary exploitation, machine learning. 
+- top languages: Java, python, assembly, C.
+- fun fact: I love playing the guitar 🎸
 
-Here are some ideas to get you started:
+## Accomplishments
+- 1st place 🥇 - CodeGuruXtreme 2021 ([results](https://codeguru.co.il/Xtreme/winners.htm))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Projects
+
+### Machine learning
+
+- **[Image Classifer](https://github.com/OmriHarel19/image_classification_project)** - image classification application: convolutional neural network in python using KERAS api, inspired by google's [Teachable Machine](https://teachablemachine.withgoogle.com/).
+
+### Cyber Security
+
+- **[HackThisGame](https://github.com/OmriHarel19/HackThisGame)** - A CTF game, embeded in a simple tic-tac-toe game. Each challange demonstrates a different vulnerability (such as: buffer overflow, format string attacks), and has its own documented python exploit.
